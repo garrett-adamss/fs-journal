@@ -3,7 +3,7 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
-
+var // let 
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
@@ -22,7 +22,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-
+Position 2, by counting left to right starting with zero
 ```
 **5.** With these two objects: 
 ```js
@@ -47,12 +47,12 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-
+i++, this increase i by 1 every time the loop runs
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+Document Object Mobule, the html file renders the DOM first
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
@@ -68,5 +68,5 @@ for ( let i = 0; i < arr.length; _______ ) {
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+Primitive values are data that are stored in the stack, Reference variables are stores in the heap
 ```
