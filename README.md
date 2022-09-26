@@ -5,10 +5,10 @@ My name is Garrett Adams. I am a student at [CodeWorks](https://boisecodeworks.c
 ## Work
 
   + [My Github](https://github.com/garrett-adamss)
-  + [Portfolio](https://garrett-adamss.github.io/)
+  + [Portfolio](https://garrett-adams-portfolio.onrender.com/)
 
 ## Contact
 
   + [Resume](https://garrett-adamss.github.io/resume)
-  + Email: garrettadams27@gmail.com
+  + Email: garrettadamsdev@gmail.com
   
